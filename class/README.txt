@@ -1,0 +1,1 @@
+Colocar as classes de negócio nessa pasta.
